@@ -59,8 +59,9 @@ const SidebarContainer = styled.div`
     color: var(--clr-red-light);
   }
   .logo {
+    margin-left: -26px;
     justify-self: center;
-    height: 45px;
+    height: 110px;
   }
   .links {
     margin-bottom: 2rem;
